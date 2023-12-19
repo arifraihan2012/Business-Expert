@@ -1,6 +1,0 @@
-1. Update Ledger invoice 2
-2. Update Employee Information
-3. Update User Account
-3. Update Customer Information
-4. Update or  Delete Stock record
-5. Update Database Fields.
